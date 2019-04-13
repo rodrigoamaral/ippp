@@ -1,3 +1,10 @@
+"""
+variaveis.py
+
+Escreva um programa que execute o trecho de código abaixo e, em seguida, 
+imprima o valor e o tipo das variáveis x, y e z ao final da execução. 
+""" 
+
 x = 5
 y = 7.5
 z = x

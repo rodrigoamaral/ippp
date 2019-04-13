@@ -1,3 +1,12 @@
+"""
+pedrapapeltesoura.py
+
+Faça um jogo de Pedra, Papel e Tesoura para dois jogadores. O programa 
+deve pedir que cada jogador digite sua jogada. Em seguida, deve 
+comparar as jogadas, mostrar uma mensagem de parabéns ao vencedor e 
+perguntar se os jogadores querem começar uma nova partida.
+"""
+
 jogar = 's'
 
 while jogar == 's':
